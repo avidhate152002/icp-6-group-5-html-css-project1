@@ -97,4 +97,6 @@ background-color: #fff ;
        .btn-con{
         display: flex;
        }
-       
+       #{
+        display: block;
+       }
